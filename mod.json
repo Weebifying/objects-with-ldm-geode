@@ -7,7 +7,7 @@
 	},
 	"id": "weebify.objects_with_ldm",
 	"name": "Objects with LDM",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Weebify",
 	"description": "Shows you the number of objects with LDM enabled in the editor",
 	"dependencies": [
