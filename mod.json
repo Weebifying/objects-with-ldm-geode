@@ -1,5 +1,5 @@
 {
-	"geode": "3.0.0-beta.1",
+	"geode": "3.2.0",
 	"gd": {
 		"win": "2.206",
 		"android": "2.206",
@@ -7,7 +7,7 @@
 	},
 	"id": "weebify.objects_with_ldm",
 	"name": "Objects with LDM",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "Weebify",
 	"description": "Shows you the number of objects with LDM enabled in the editor",
 	"dependencies": [
@@ -18,7 +18,7 @@
 		}
 	],
 	"resources": {
-		"files": [
+		"sprites": [
 			"./preview.png"
 		]
 	}
